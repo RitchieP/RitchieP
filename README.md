@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ritchie</h1>
 <h3 align="center">A first-year Computer Science student from Malaysia.</h3>
 
-- 🌱 I’m currently learning **C++ on Abstract Data Structures**
-
+- 🌱 I’m currently learning and growing with too much fertilizer
+- 🖨 I'm currently trying to stay alive with assignments suffocating me.
 - 📫 How to reach me **ritchiepoh@gmail.com**
-
-- ⚡ Fun fact **I also love photography**
+- ⚡ Fun fact I play basketball 🏀 and do photography 📸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
