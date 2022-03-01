@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritchie</h1>
-<h3 align="center">A first-year Computer Science student from Malaysia.</h3>
+<h3 align="center">A Computer Science undergraduate student from Malaysia.</h3>
 
 - 🌱 I’m currently learning and growing with too much fertilizer
 - 🖨 I'm currently trying to stay alive with assignments suffocating me.
