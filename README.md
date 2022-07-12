@@ -12,7 +12,7 @@
 <b>2019</b> - Enrolled in computer science module in pre-university college <br>
 <b>2020</b> - Enrolled in School of Computer Science at Universiti Sains Malaysia <br>
 <b>2021</b> - Recruited as Technical Director for <a href="https://gdsc.community.dev/universiti-sains-malaysia/">Google Developer Student Clubs, Universiti Sains Malaysia</a> <br>
-<b>2022</b> - Majoring in Intelligent Computing; Minoring in Mathematics
+<b>2022</b> - Majoring in Intelligent Computing; Minoring in Mathematics <br>
 <b>2022</b> - Recruited as core team member of Google Developers Group George Town
 </p>
 
