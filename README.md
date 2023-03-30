@@ -5,6 +5,9 @@
 - 🖨 I'm currently trying to stay alive with assignments ~~suffocating~~ enriching me.
 - 📫 How to reach me **ritchiepoh@gmail.com**
 - ⚡ Fun fact I play basketball 🏀 and do photography 📸
+
+[![Ritchie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritchiep)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 <h3 align="center">Coding journey</h3>
 <p align="center">
