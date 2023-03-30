@@ -6,7 +6,7 @@
 - 📫 How to reach me **ritchiepoh@gmail.com**
 - ⚡ Fun fact I play basketball 🏀 and do photography 📸
 
-[![Ritchie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritchiep)](https://github.com/anuraghazra/github-readme-stats)
+[![Ritchie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritchiep&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <h3 align="center">Coding journey</h3>
