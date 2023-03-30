@@ -18,12 +18,15 @@
 <b>2020</b> - Enrolled in School of Computer Science at Universiti Sains Malaysia <br>
 <b>2021</b> - Recruited as Technical Director for <a href="https://gdsc.community.dev/universiti-sains-malaysia/">Google Developer Student Clubs, Universiti Sains Malaysia</a> <br>
 <b>2022</b> - Majoring in Intelligent Computing; Minoring in Mathematics <br>
-<b>2022</b> - Recruited as core team member of Google Developers Group George Town
+<b>2022</b> - Recruited as core team member of Google Developers Group George Town <br>
+<b>2023</b> - Google Developers Group George Town Co-Lead and Software Engineer Intern @ CodeTrace MY
 </p>
 
 ---
-<h5 align="center">Connect with me:</h5>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/ritchie.poh/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="ritchie poh" height="3.5%" width="3.5%" /></a> <a href="https://instagram.com/ritchie_918" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="ritchie_918" height="3.5%" width="3.5%" /> </a> <a href="https://www.hackerrank.com/ritchiepoh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ritchiepoh" height="3.5%" width="3.5%" /> </a><a href="https://www.linkedin.com/in/ritchie-p-892b31115/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ritchiepoh" height="3.5%" width="3.5%" /></a>
+<a href="https://medium.com/@ritchiepoh" target="blank"><img align="center" src="https://cdn-user-icons.flaticon.com/28282/28282239/1680156339472.svg?token=exp=1680157265~hmac=050b59bc5d8487d71ae19dd8e1c2950b" alt="ritchie_918" height="3.5%" width="3.5%" /> </a> 
+<a href="https://stackoverflow.com/users/13328625/casual-r" target="blank"><img align="center" src="https://cdn-user-icons.flaticon.com/28282/28282239/1680156229016.svg?token=exp=1680157168~hmac=6bc053132e24282ade7026ac09f491a4" alt="ritchiepoh" height="3.5%" width="3.5%" /></a>
+<a href="https://www.linkedin.com/in/ritchie-p-892b31115/" target="blank"><img align="center" src="https://cdn-user-icons.flaticon.com/28282/28282239/1680156183675.svg?token=exp=1680157114~hmac=274b5593992525f91c4c866fdc810018" alt="ritchiepoh" height="3.5%" width="3.5%" /></a>
 
 </p>
