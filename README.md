@@ -7,7 +7,11 @@
 - ⚡ Fun fact I play basketball 🏀 and do photography 📸
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ritchiep&count_private=true&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=ritchiep&count_private=true&show_icons=true&theme=aura_dark">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritchiep&layout=compact&theme=radical">
 </div>
 
 ---
