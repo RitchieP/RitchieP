@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ritchie</h1>
 <h3 align="center">A Computer Science undergraduate student from Malaysia.</h3>
 
-<p align="center">
+<div align="center">
     - 🌱 I’m currently learning and growing with too much fertilizer
     - 🖨 I'm currently trying to stay alive with assignments ~~suffocating~~ enriching me.
     - 📫 How to reach me **ritchiepoh@gmail.com**
     - ⚡ Fun fact I play basketball 🏀 and do photography 📸
-</p>
+</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ritchiep&count_private=true&show_icons=true&theme=tokyonight">
