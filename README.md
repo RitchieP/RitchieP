@@ -24,7 +24,7 @@
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://medium.com/@ritchiepoh" target="blank"><img align="center" src="https://cdn-user-icons.flaticon.com/28282/28282239/1680156339472.svg?token=exp=1680157265~hmac=050b59bc5d8487d71ae19dd8e1c2950b" alt="Medium Icon" height="3.5%" width="3.5%" /></a> &nbsp
-<a href="https://stackoverflow.com/users/13328625/casual-r" target="blank"><img align="center" src="https://cdn-user-icons.flaticon.com/28282/28282239/1680156229016.svg?token=exp=1680157168~hmac=6bc053132e24282ade7026ac09f491a4" alt="StackOverflow Icon" height="3.5%" width="3.5%" /></a> &nbsp
-<a href="https://www.linkedin.com/in/ritchie-p-892b31115/" target="blank"><img align="center" src="https://cdn-user-icons.flaticon.com/28282/28282239/1680228631870.svg?token=exp=1680229559~hmac=224f1a005990c48fbf26752c1788b9e0" alt="LinkedIn Icon" height="3.5%" width="3.5%" /></a>
+<a href="https://medium.com/@ritchiepoh" target="blank"><img align="center" src="002-medium.png" alt="Medium Icon" height="3.5%" width="3.5%" /></a> &nbsp
+<a href="https://stackoverflow.com/users/13328625/casual-r" target="blank"><img align="center" src="001-stack-overflow.png" alt="StackOverflow Icon" height="3.5%" width="3.5%" /></a> &nbsp
+<a href="https://www.linkedin.com/in/ritchie-p-892b31115/" target="blank"><img align="center" src="003-linkedin.png" alt="LinkedIn Icon" height="3.5%" width="3.5%" /></a>
 </p>
