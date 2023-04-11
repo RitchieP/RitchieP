@@ -24,7 +24,7 @@
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://medium.com/@ritchiepoh" target="blank"><img align="center" src="002-medium.png" alt="Medium Icon" height="3.5%" width="3.5%" /></a> &nbsp
-<a href="https://stackoverflow.com/users/13328625/casual-r" target="blank"><img align="center" src="001-stack-overflow.png" alt="StackOverflow Icon" height="3.5%" width="3.5%" /></a> &nbsp
-<a href="https://www.linkedin.com/in/ritchie-p-892b31115/" target="blank"><img align="center" src="003-linkedin.png" alt="LinkedIn Icon" height="3.5%" width="3.5%" /></a>
+<a href="https://medium.com/@ritchiepoh" target="blank"><img align="center" src="002-medium.png" alt="Medium Icon" height="75%" width="7%" /></a> &nbsp
+<a href="https://stackoverflow.com/users/13328625/casual-r" target="blank"><img align="center" src="001-stack-overflow.png" alt="StackOverflow Icon" height="7%" width="7%" /></a> &nbsp
+<a href="https://www.linkedin.com/in/ritchie-p-892b31115/" target="blank"><img align="center" src="003-linkedin.png" alt="LinkedIn Icon" height="7%" width="7%" /></a>
 </p>
