@@ -1,3 +1,4 @@
+<img align="center" src="004-banner.png" alt="README banner"/>
 <h1 align="center">Hi 👋, I'm Ritchie</h1>
 <h3 align="center">A Computer Science undergraduate student from Malaysia.</h3>
 
