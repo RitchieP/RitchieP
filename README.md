@@ -1,5 +1,5 @@
 <img align="center" src="004-banner.png" alt="README banner"/>
-<h1 align="center">Hi 👋, I'm Ritchie</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, I'm Ritchie</h1>
 <h3 align="center">A Computer Science undergraduate student from Malaysia.</h3>
 
 - 🌱 I’m currently learning and growing with too much fertilizer
