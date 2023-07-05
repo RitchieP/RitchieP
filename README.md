@@ -29,3 +29,7 @@
 <a href="https://stackoverflow.com/users/13328625/casual-r" target="blank"><img align="center" src="001-stack-overflow.png" alt="StackOverflow Icon" height="7%" width="7%" /></a> &nbsp
 <a href="https://www.linkedin.com/in/ritchie-p-892b31115/" target="blank"><img align="center" src="003-linkedin.png" alt="LinkedIn Icon" height="7%" width="7%" /></a>
 </p>
+
+<a href="https://www.flaticon.com/free-icons/lego" title="lego icons">Lego icons created by Smashicons - Flaticon</a> |
+<a href="https://www.flaticon.com/free-icons/basketball" title="basketball icons">Basketball icons created by Good Ware - Flaticon</a> |
+<a href="https://www.flaticon.com/free-icons/camera" title="camera icons">Camera icons created by Freepik - Flaticon</a>
