@@ -7,7 +7,7 @@
 - 📫 How to reach me **ritchiepoh@gmail.com**
 - ⚡ Fun fact I play basketball 🏀 and do photography 📸
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritchiep&count_private=true&show_icons=true&theme=aura_dark">
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitchieP&theme=radical&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritchiep&layout=compact&theme=radical">
 
 ---
