@@ -3,9 +3,9 @@
 <h3 align="center">A Computer Science undergraduate student from Malaysia.</h3>
 
 - 🌱 I’m currently learning and growing with too much fertilizer
-- 🖨 I'm currently trying to stay alive with assignments ~~suffocating~~ enriching me.
+- 🖨 ~~I'm currently trying to stay alive with assignments enriching me.~~ Graduated!
 - 📫 How to reach me **ritchiepoh@gmail.com**
-- ⚡ Fun fact I play basketball 🏀 and do photography 📸
+- ⚡ Fun fact I play basketball 🏀, love to travel, and do photography 📸
 
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitchieP&theme=radical&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritchiep&layout=compact&theme=radical">
